@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gptchart/static/css/main.432cbdf9.css",
-    "main.js": "/gptchart/static/js/main.84fe2d05.js",
-    "static/js/453.3074fc91.chunk.js": "/gptchart/static/js/453.3074fc91.chunk.js",
-    "index.html": "/gptchart/index.html",
-    "main.432cbdf9.css.map": "/gptchart/static/css/main.432cbdf9.css.map",
-    "main.84fe2d05.js.map": "/gptchart/static/js/main.84fe2d05.js.map",
-    "453.3074fc91.chunk.js.map": "/gptchart/static/js/453.3074fc91.chunk.js.map"
+    "main.css": "/gptgraph/static/css/main.432cbdf9.css",
+    "main.js": "/gptgraph/static/js/main.f47d837c.js",
+    "static/js/453.3074fc91.chunk.js": "/gptgraph/static/js/453.3074fc91.chunk.js",
+    "index.html": "/gptgraph/index.html",
+    "main.432cbdf9.css.map": "/gptgraph/static/css/main.432cbdf9.css.map",
+    "main.f47d837c.js.map": "/gptgraph/static/js/main.f47d837c.js.map",
+    "453.3074fc91.chunk.js.map": "/gptgraph/static/js/453.3074fc91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.432cbdf9.css",
-    "static/js/main.84fe2d05.js"
+    "static/js/main.f47d837c.js"
   ]
 }
